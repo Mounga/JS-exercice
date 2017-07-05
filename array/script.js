@@ -27,3 +27,12 @@ console.log("L'exercice 5 me demande d'ajouter l'accent au mois d'aout en change
 console.log("L'exercice 6 me demande sortir toutes les valeurs de mon tableau. Voici les valeurs de mon tableau : " + mois.join());
 
 //7éme exercice
+
+
+//8éme exercice
+array.push("Courgette");
+console.log(array.join());
+
+//9éme exercice
+array[4].push("Citron");
+console.log(array.join());
