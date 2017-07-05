@@ -21,6 +21,9 @@ console.log("L'exercice 4 me demande d'afficher: " + mois[10] + ".");
 
 //5éme exercice
 mois[7]="août";
-console.log("L'exercice 5 me demande d'ajouter l'accent au mois d'aout en changeant sa veleur dans le tableau. Voici le résultat: " + mois[7] + ".");
+console.log("L'exercice 5 me demande d'ajouter l'accent au mois d'aout en changeant sa valeur dans le tableau. Voici le résultat: " + mois[7] + ".");
 
 //6éme exercice
+console.log("L'exercice 6 me demande sortir toutes les valeurs de mon tableau. Voici les valeurs de mon tableau : " + mois.join());
+
+//7éme exercice
