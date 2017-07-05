@@ -11,10 +11,12 @@ var mois = ["janvier","février","mars","avril","mai","juin","juillet","aout","s
 
 //2éme exercice
 mois[2];
-document.write("L'exercice 2 me demande d'afficher la valeur de la troisiéme ligne soit : " + mois[2] + ".");
+console.log("L'exercice 2 me demande d'afficher la valeur de la troisiéme ligne soit : " + mois[2] + ". " );
 //3éme exercice
 mois[5];
-document.write("\nL'exercice 3 me demande d'afficher la valeur de l'index 5 soit : " + mois[5] + ".");
+console.log("L'exercice 3 me demande d'afficher la valeur de l'index 5 soit : " + mois[5] + ".");
 
 //4éme exercice
-document.write(mois[10]);
+console.log("L'exercice 4 me demande d'afficher: " + mois[10] + ".");
+
+//5éme exercice
